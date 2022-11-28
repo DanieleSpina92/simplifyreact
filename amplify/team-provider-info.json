@@ -16,7 +16,14 @@
         "reactamplified": {}
       },
       "auth": {
-        "reactamplified72032def": {}
+        "reactamplified72032def": {},
+        "reactamplified51740e09": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1x9nwaf01qqhm",
+          "type": "cicd"
+        }
       }
     }
   }
